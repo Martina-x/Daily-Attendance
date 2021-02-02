@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Day One</title>
+	<style type="text/css">
+		#box{
+			width: 400px;
+            height: 300px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+		}
+		
+		#child{
+			width: 400px;
+            height: 50px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+        }
+
+		a:link{color:red;}
+        a:visited {color:yellow}
+        a:hover {color:blue}
+        a:active {color:green}
+		
+	</style>>
+</head>
+
+<body>
+	<p style="text-align: center">据BBC、路透社等外媒消息，缅甸全国民主联盟发言人妙纽在当地时间2月1日称，缅甸国务资政兼外长昂山素季等政治领导人“被军方扣留”。法新社刚刚还援引妙纽的话表示，“根据目前我们看到的情况，我们不得不猜测，军方在发动一场政变。”</p>
+	<div id="box">
+		<div id="child">
+	    <p>路透社称，该发言人表示，除昂山素季外，缅甸总统温敏和其他几名领导人也在当日早上“被带走”。“我想对人们说，不要做出轻率反应，我希望他们按法律来。”发言人还补充道，他自己也有可能被扣留。</p>
+        </div>
+    </div>
+    <a href="https://www.360kuai.com/95d7522cf9cf9bc74?scene=&uid=15425a55bcf47fdbfe810a4efea508fa&nsid=1dc8bbf0-f0c4-4ea7-a727-05575ff2701a&sign=360_79aabe15&tj_url=95d7522cf9cf9bc74&refer_scene=" target="_blank">昂山素季“被扣押” 缅甸执政党发言人回应</a>
+</body>
+</html>
+
+
